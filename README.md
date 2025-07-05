@@ -1,7 +1,8 @@
 # ❌⭕ Unbeatable Tic-Tac-Toe (No AI, Just Clever JavaScript 🧠)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68150242/276845734-c556f3e6-e433-4c76-8784-f734fc77d8f9.png" width="300" alt="Tic Tac Toe"/>
+ ![screencapture-unbeatable-tic-tac-toe-alpha-vercel-app-2025-07-05-17_26_12](https://github.com/user-attachments/assets/7435137d-e312-4716-8911-eb524b9a072c)
+
 </p>
 
 > A pure JavaScript-powered Tic-Tac-Toe game that feels like AI — but isn’t.  
