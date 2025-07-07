@@ -1,7 +1,8 @@
 # ❌⭕ Unbeatable Tic-Tac-Toe (No AI, Just Clever JavaScript 🧠)
 
 <p align="center">
- ![screencapture-unbeatable-tic-tac-toe-alpha-vercel-app-2025-07-05-17_26_12](https://github.com/user-attachments/assets/7435137d-e312-4716-8911-eb524b9a072c)
+ ![462764329-7435137d-e312-4716-8911-eb524b9a072c](https://github.com/user-attachments/assets/4939e624-6c11-40d5-aeb3-bdc8415687b3)
+
 
 </p>
 
